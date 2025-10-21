@@ -1,8 +1,4 @@
-Berikut isi **README.md** yang rapi, profesional, dan langsung bisa kamu taruh di root repo:
 
----
-
-````markdown
 # 💳 K-Nearest Neighbor (KNN) Loan Eligibility Prediction
 
 A Streamlit-based web application that uses the K-Nearest Neighbors algorithm to predict loan eligibility based on user financial and demographic data.
